@@ -5,11 +5,10 @@ import CarouselFadeExample from "../components/gallery.js";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
-import VRPic from '../img/bg_container1.png';
+
 import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
-import { CardGroup } from "react-bootstrap";
-import Carousel from 'react-bootstrap/Carousel';
+
 
 
 function Home() {
